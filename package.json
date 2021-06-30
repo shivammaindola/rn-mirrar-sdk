@@ -14,5 +14,9 @@
   "license": "",
   "peerDependencies": {
     "react-native": "0.64.2"
+  },
+  "dependencies": {
+    "react-native-event-listeners": "^1.0.7",
+    "react-native-webview": "^11.3.1"
   }
 }
